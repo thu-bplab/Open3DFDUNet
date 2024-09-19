@@ -1,4 +1,4 @@
-# Open3DFDUNet: Open-Source 3DFD U-Net
+# Open3DFDUNet: Open-Source 3D Fully-Dense U-Net
 ## Setup
 
 ### Installation
