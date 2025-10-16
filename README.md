@@ -59,10 +59,14 @@ pip install -r requirements.txt
 }
 ```
 ```
-@misc{open3dfdunet,
-  title = {Open3DFDUNet: Open-Source 3D Fully-Dense U-Net},
-  author = {Di Kong and Yuwen Chen},
-  year = {2024},
-  howpublished = {\url{https://github.com/thu-bplab/Open3DFDUNet}},
+@software{di_kong_2025_17364291,
+  author       = {Di Kong and Yuwen Chen},
+  title        = {Open3DFDUNet: Open-Source 3D Fully-Dense U-Net},
+  month        = oct,
+  year         = 2025,
+  publisher    = {Zenodo},
+  version      = {v1.0},
+  doi          = {10.5281/zenodo.17364291},
+  url          = {https://doi.org/10.5281/zenodo.17364291}
 }
 ```
